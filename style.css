@@ -1,0 +1,33 @@
+html {
+    background: linear-gradient(to right, rgb(190, 224, 238), deepskyblue);
+}
+
+
+h1 {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+
+h1:hover {
+    background-color: black;
+    color: white;
+    font-size: 60px;
+}
+
+
+a, h2, h3, .img {
+    display: flex;
+    justify-content: center;
+}
+
+
+a {
+    color: black;
+}
+
+
+a:hover {
+    font-size: 45px;
+}

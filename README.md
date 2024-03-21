@@ -1,0 +1,1 @@
+This is an invitation to the coolest party to ever exist. There is no party that could ever come close in terms of experiencing the coolest most amazing party to have ever been thrown. First come, first serve.
